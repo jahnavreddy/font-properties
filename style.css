@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Poppins:wght@100&display=swap');
+body{
+  font-family: 'Poppins';
+}
+#css{
+  font-variant: normal;
+  font-weight: 1000;
+  font-style: italic;
+}
+p{
+  font-size: 15px;
+}
